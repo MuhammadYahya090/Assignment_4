@@ -1,0 +1,6 @@
+INSERT INTO opportunities (company_name, job_title, category, city, country, work_mode, required_skills, salary_min, salary_max, currency, experience_level, application_deadline, status, source_link) VALUES
+('Techlogix', 'Data Scientist', 'Data Science', 'Lahore', 'Pakistan', 'Hybrid', 'Python, SQL, ML', 80000, 150000, 'PKR', 'Mid', '2026-07-01', 'Open', 'link1'),
+('Systems Ltd', 'Backend Eng', 'Software Engineering', 'Karachi', 'Pakistan', 'Remote', 'Node.js, Postgres', 100000, 200000, 'PKR', 'Senior', '2026-06-15', 'Shortlisted', 'link2'),
+('Devsinc', 'Security Analyst', 'Cyber Security', 'Islamabad', 'Pakistan', 'Onsite', 'Network, SIEM', 70000, 120000, 'PKR', 'Entry', '2026-05-10', 'Expired', 'link3'),
+('Arbisoft', 'AI Researcher', 'AI', 'Lahore', 'Pakistan', 'Hybrid', 'PyTorch, NLP', 150000, 250000, 'PKR', 'Senior', '2026-08-01', 'Open', 'link4'),
+('NetSol', 'React Dev', 'Web Development', 'Faisalabad', 'Pakistan', 'Remote', 'React, JS', 50000, 90000, 'PKR', 'Junior', '2026-06-20', 'Closed', 'link5');
