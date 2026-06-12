@@ -1,3 +1,4 @@
+HEAD
 # 🚀 Internship & Job Tracking Dashboard
 
 ## 👥 GitHub Contribution Table
@@ -19,3 +20,6 @@
 * `docker compose ps` - Shows the running services and mapped ports.
 * `docker compose logs postgres_db` - Outputs the PostgreSQL container connection/error logs.
 * `docker compose down -v` - Stops containers and securely deletes attached volumes (Data is lost).
+=======
+# Assignment_4
+c2d3f66d297c829a75858c942b438fe0980fba01
